@@ -13,7 +13,7 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Sentinel Website | 安全相关项目 | [🔗 Live Demo](https://sentinel-website-murex.vercel.app/) |
+| Sentinel Website | 企业级web 监控 sdk | [🔗 Live Demo](https://sentinel-website-murex.vercel.app/) |
 | Web Security Lab | Web 安全实验室 | [🔗 Live Demo](https://web-security-lab-server.vercel.app/) |
 
 ---
