@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm majuntao</h1>
 <h3 align="center">A passionate developer</h3>
 
 <p align="center">
-  <a href="https://github.com/[your-username]">
-    <img src="https://img.shields.io/github/followers/[your-username]?label=Follow&style=social" alt="GitHub followers" />
+  <a href="https://github.com/name718">
+    <img src="https://img.shields.io/github/followers/name718?label=Follow&style=social" alt="GitHub followers" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Sentinel Website | 性能监控 | [🔗 Live Demo](https://sentinel-website-murex.vercel.app/) |
+| Sentinel Website | 安全相关项目 | [🔗 Live Demo](https://sentinel-website-murex.vercel.app/) |
 | Web Security Lab | Web 安全实验室 | [🔗 Live Demo](https://web-security-lab-server.vercel.app/) |
 
 ---
@@ -32,11 +32,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="./image.png" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 📫 Contact Me
 
-- GitHub: [@your-username](https://github.com/[your-username])
+- GitHub: [@name718](https://github.com/name718)
